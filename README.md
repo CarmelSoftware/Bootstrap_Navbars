@@ -17,11 +17,7 @@ This jQuery Mobile code is the companion for the following Tutorial:
 
 <img alt="Lesson 3 - Navbars with DropDownLists        " border="0" height="314" src="http://2.bp.blogspot.com/-8gNqWV6_BtA/VV2j6qMrMyI/AAAAAAAAK5w/j8Zylf8Ipnw/s540/14.png" width="540" />
 
-
-
 <img alt="Navbars with DropDownLists        " border="0" height="410" src="http://3.bp.blogspot.com/-YQew3esYkig/VV2j5lv6YZI/AAAAAAAAK6o/n5hgNCneu5o/s540/1.png" width="540" />
-
-
 
 </a>
 
