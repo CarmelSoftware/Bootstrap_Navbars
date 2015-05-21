@@ -1,5 +1,5 @@
-# Bootstrap_Navbars
-##Demonstrating the use of Bootstrap Navbars
+# Bootstrap Navbars
+##Demonstrating the use of Bootstrap Navbars with DropDownLists and Forms
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
