@@ -8,14 +8,63 @@ This jQuery Mobile code is the companion for the following Tutorial:
 <a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-2-icons-and-glyphicons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
-<img alt=" Lesson 2 - Icons and Glyphicons        " border="0" height="492" src="http://2.bp.blogspot.com/-Ivv7QXM_i1s/VVx6etipb1I/AAAAAAAAK3k/cb7n2F8q_vU/s540/10.png" width="540" />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-sUOmexfFd9I/VV2j7siAsWI/AAAAAAAAK6E/LVBN8XE83BI/s1600/4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Bootstrap Tutorial        " border="0" height="540" src="http://2.bp.blogspot.com/-sUOmexfFd9I/VV2j7siAsWI/AAAAAAAAK6E/LVBN8XE83BI/s540/4.png" width="358" /></a></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<b>2-tablets and&nbsp;</b><b>medium desktops:</b></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-l-qvyhp8_WA/VV2j6yZhHrI/AAAAAAAAK6c/Ca9ip61Gno4/s1600/2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Bootstrap     " border="0" height="530" src="http://2.bp.blogspot.com/-l-qvyhp8_WA/VV2j6yZhHrI/AAAAAAAAK6c/Ca9ip61Gno4/s540/2.png" width="540" /></a></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<a href="http://2.bp.blogspot.com/-VdwbB6MBf1w/VV2j6DUh7RI/AAAAAAAAK5s/ZrIz9FBXN2g/s1600/13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img alt="Tutorial Lesson 3 - Navbars with DropDownLists        " border="0" height="308" src="http://2.bp.blogspot.com/-VdwbB6MBf1w/VV2j6DUh7RI/AAAAAAAAK5s/ZrIz9FBXN2g/s540/13.png" width="540" /></a></div>
+<div class="separator" style="clear: both;">
 
+</div>
+<div class="separator" style="clear: both;">
+<a href="http://2.bp.blogspot.com/-8gNqWV6_BtA/VV2j6qMrMyI/AAAAAAAAK5w/j8Zylf8Ipnw/s1600/14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img alt="Lesson 3 - Navbars with DropDownLists        " border="0" height="314" src="http://2.bp.blogspot.com/-8gNqWV6_BtA/VV2j6qMrMyI/AAAAAAAAK5w/j8Zylf8Ipnw/s540/14.png" width="540" /></a></div>
+<div class="separator" style="clear: both;">
 
-<img alt=" Icons and Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-vRO-9gj-xRc/VVx6ekg8BTI/AAAAAAAAK30/02izACJgBQ0/s540/11.png" width="384" />
+</div>
+<div class="separator" style="clear: both;">
 
-<img alt=" Glyphicons        " border="0" height="540" src="http://4.bp.blogspot.com/-bqSSnK6A7-g/VVx6fV4nrJI/AAAAAAAAK34/vmGTaBdKtHE/s540/12.png" width="370" />
+</div>
+<div class="separator" style="clear: both;">
 
-<img alt="Bootstrap  Lesson 2 - Glyphicons        " border="0" height="466" src="http://3.bp.blogspot.com/-IkqNeYLCNT8/VVx6fm0XhJI/AAAAAAAAK4c/gDVlBH9z-VY/s540/13.png" width="540" />
+</div>
+<div class="separator" style="clear: both;">
+
+</div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<b>3-larger desktops: </b></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-YQew3esYkig/VV2j5lv6YZI/AAAAAAAAK6o/n5hgNCneu5o/s1600/1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Navbars with DropDownLists        " border="0" height="410" src="http://3.bp.blogspot.com/-YQew3esYkig/VV2j5lv6YZI/AAAAAAAAK6o/n5hgNCneu5o/s540/1.png" width="540" /></a></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+<div class="separator" style="clear: both;">
+<b>
+</b></div>
+
 
 </a>
 
