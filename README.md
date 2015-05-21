@@ -3,9 +3,9 @@
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-2-icons-and-glyphicons.html
+ http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-3-navbars-with-dropdownlists.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-2-icons-and-glyphicons.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-3-navbars-with-dropdownlists.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
 <div class="separator" style="clear: both; text-align: center;">
