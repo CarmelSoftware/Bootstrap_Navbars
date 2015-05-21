@@ -5,7 +5,7 @@
 This jQuery Mobile code is the companion for the following Tutorial:
  http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-3-navbars-with-dropdownlists.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-3-navbars-with-dropdownlists.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-3-navbars-with-dropdownlists.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
 
 <img alt="Bootstrap Tutorial        " border="0" height="540" src="http://2.bp.blogspot.com/-sUOmexfFd9I/VV2j7siAsWI/AAAAAAAAK6E/LVBN8XE83BI/s540/4.png" width="358" />
@@ -25,5 +25,5 @@ This jQuery Mobile code is the companion for the following Tutorial:
 
 </a>
 
-###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
+###<a href="http://themvcclub.blogspot.com/"   target="_blank"  >The MVC Club</a>
 
